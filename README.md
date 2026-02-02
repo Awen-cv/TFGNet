@@ -3,7 +3,7 @@ This repository contains a pytorch implementation for the paper: TFGNet: Target 
 ## Dataset and Pre-trained Models
 Please download Training Dataset FFHQ ([FFHQ Dataset](https://github.com/NVlabs/ffhq-dataset)), then place it in the project root directory.
 
-Please download pre-trained models ([Baidu Disk](), code: your_code), and then place……
+Please download pre-trained models ([Baidu Disk](), code:), and then place……
 
 ## Environment
 ```bash
