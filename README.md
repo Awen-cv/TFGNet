@@ -9,7 +9,7 @@ Please download pre-trained models ([Baidu Disk](https://pan.baidu.com/s/1QbvWxK
 ```bash
 conda create -n tfg python=3.10  # (Python >= 3.8)
 conda activate tfg
-pip install -r experiments.txt
+pip install -r environment.txt
 ```
 ## Train
 ```bash
